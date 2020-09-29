@@ -29,7 +29,8 @@ Indian Institute of Technology Roorkee, Roorkee
  color:#FFFFFF;
  text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
  text-align:center;
- transition: all 0.2s;" value="Publications"></a>
+ transition: all 0.2s;
+ background-color:#4e9af1" value="Publications"></a>
 
 <a href="https://rangavirender.github.io/mywebsite/crxncal">
 <input type=button value="Cross-section calculator"></a>
