@@ -1,5 +1,5 @@
 <style>
-#btn{width:80px;height:40px;font-size:20px;}
+#btn{width:150px;height:40px;font-size:20px;}
 </style>
 
 Research Scholar\
@@ -21,7 +21,7 @@ Indian Institute of Technology Roorkee, Roorkee
 
 
 <a href="https://github.com/RangaVirender/mywebsite/edit/gh-pages/index.md">
-<input id="btn" type=button value="Calculate"></a>
+<input id="btn" type=button value="Publications"></a>
  
 # Publications
 ## Journals
