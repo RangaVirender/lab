@@ -1,6 +1,3 @@
-<html>
-<head></head>
-<body>
 <style>
 #calc{width:700px;height:700px;}
 #btn{width:100%;height:40px;font-size:20px;}
@@ -90,5 +87,3 @@ OnClick="calc.disDiffCross.value=' ',
 </tr>
 </table>
 </form>
-</body>
-</html>
