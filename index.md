@@ -1,7 +1,3 @@
-<style>
-#btn{width:150px;height:40px;font-size:20px;}
-</style>
-
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
