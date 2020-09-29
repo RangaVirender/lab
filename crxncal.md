@@ -63,7 +63,7 @@
                                                                                     Math.pow(calc.disDistance.value,2)
                                                                                    ))))).toPrecision(6),
 calc.disTotalCross.value=(4.0*3.14159*calc.disDiffCross.value).toPrecision(6)"></td>
-<td colspan=2><input id="btn" type=button value="Clear" 
+<td colspan=1><input id="btn" type=button value="Clear" 
 OnClick="calc.disDiffCross.value=' ',
                 calc.disTotalCross.value=' ',
                 calc.disZproj.value=' ',
@@ -80,12 +80,12 @@ OnClick="calc.disDiffCross.value=' ',
                 calc.disRadius.value=' ',
                 calc.disDistance.value=' '"></td>
 </tr>
-<tr><td colspan=4>Differential Cross Section</td><td colspan=4>Total Cross Section</td>
+<tr><td colspan=3>Differential Cross Section</td><td colspan=4>Total Cross Section</td>
 </tr>
 
 <tr>
 <td colspan=2><input id="btn" name="disDiffCross" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
-<td colspan=2>milli barn</td>
+<td colspan=1>milli barn</td>
 <td colspan=2><input id="btn" name="disTotalCross" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=2>milli barn</td>
 
