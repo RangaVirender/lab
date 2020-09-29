@@ -18,7 +18,6 @@ Indian Institute of Technology Roorkee, Roorkee
 
 <a href="https://rangavirender.github.io/mywebsite/publications">
 <input type=button value="Publications"></a>
-
 <a href="https://rangavirender.github.io/mywebsite/crxncal">
 <input type=button value="Cross-section calculator"></a>
  
