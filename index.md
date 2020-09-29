@@ -1,4 +1,4 @@
-# [Virender Ranga](https://rangavirender.github.io/lab/)\
+# [Virender Ranga](https://rangavirender.github.io/lab/)
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
