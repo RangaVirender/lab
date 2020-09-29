@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="logo/logo_v1.png">
+
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
