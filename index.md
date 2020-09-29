@@ -19,8 +19,9 @@ Hans Raj College, University of Delhi, New Delhi
 M.Sc. Physics(2015-17)\
 Indian Institute of Technology Roorkee, Roorkee
 
-<input id="btn" type=button value="Calculate"
- OnClick="https://github.com/RangaVirender/mywebsite/edit/gh-pages/index.md">
+
+<a href="https://github.com/RangaVirender/mywebsite/edit/gh-pages/index.md">
+<input id="btn" type=button value="Calculate"></a>
  
 # Publications
 ## Journals
