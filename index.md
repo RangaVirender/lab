@@ -4,6 +4,9 @@ Department of Physics,\
 Indian Institute of Technology Roorkee,\
 Roorkee- 247667, Uttarakhand, India
 
+# Research
+My PhD research is focused on study of &gamma;-rays production from <sup>16</sup>O using proton beam. It includes theoretical analysis using optical model potential as well as beam-line experiment and realistic GEANT4 simulations. I use CERN-ROOT toolkit for data analysis.
+
 # Education
 B.Sc. (H) Physics(2012-15)\
 Hans Raj College, University of Delhi, New Delhi
