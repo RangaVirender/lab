@@ -20,6 +20,6 @@ M.Sc. Physics(2015-17)\
 Indian Institute of Technology Roorkee, Roorkee
 
 
-<a href="https://github.com/RangaVirender/mywebsite/edit/gh-pages/index.md">
+<a href="https://rangavirender.github.io/mywebsite/publications">
 <input id="btn" type=button value="Publications"></a>
  
