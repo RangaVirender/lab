@@ -1,11 +1,11 @@
-[# Virender Ranga](https://rangavirender.github.io/lab/)\
+# [Virender Ranga](https://rangavirender.github.io/lab/)\
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
 Indian Institute of Technology Roorkee,\
 Roorkee- 247667, Uttarakhand, India
 
-[# Education]
+# [Education]
 B.Sc. (H) Physics(2012-15)\
 Hans Raj College, University of Delhi, New Delhi
 
