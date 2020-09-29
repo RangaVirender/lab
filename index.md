@@ -1,5 +1,5 @@
 <style>
-#btn{width:100%;height:40px;font-size:20px;}
+#btn{width:80px;height:40px;font-size:20px;}
 </style>
 
 Research Scholar\
