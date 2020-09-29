@@ -1,9 +1,6 @@
-<head>
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-</head>
+<style>
+#btn{width:100%;height:40px;font-size:20px;}
+</style>
 
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
@@ -22,6 +19,9 @@ Hans Raj College, University of Delhi, New Delhi
 M.Sc. Physics(2015-17)\
 Indian Institute of Technology Roorkee, Roorkee
 
+<input id="btn" type=button value="Calculate"
+ OnClick="https://github.com/RangaVirender/mywebsite/edit/gh-pages/index.md">
+ 
 # Publications
 ## Journals
 ### 2020
