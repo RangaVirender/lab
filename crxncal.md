@@ -49,7 +49,7 @@
 </tr>
 
 <tr>
-<td colspan=2><input id="btn" type=button value="Calculate"
+<td colspan=3><input id="btn" type=button value="Calculate"
  OnClick="calc.disDiffCross.value=(
  calc.disArea.value*
  calc.disChargeState.value*1.6e-19*
@@ -63,7 +63,7 @@
                                                                                     Math.pow(calc.disDistance.value,2)
                                                                                    ))))).toPrecision(6),
 calc.disTotalCross.value=(4.0*3.14159*calc.disDiffCross.value).toPrecision(6)"></td>
-<td colspan=1><input id="btn" type=button value="Clear" 
+<td colspan=3><input id="btn" type=button value="Clear" 
 OnClick="calc.disDiffCross.value=' ',
                 calc.disTotalCross.value=' ',
                 calc.disZproj.value=' ',
