@@ -1,3 +1,4 @@
+ <div class="w3-animate-zoom">
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
@@ -20,3 +21,4 @@ Indian Institute of Technology Roorkee, Roorkee
 <input type=button value="Publications"></a>
 <a href="https://rangavirender.github.io/mywebsite/crxncal">
 <input type=button value="Cross-section calculator"></a>
+</div> 
