@@ -23,7 +23,6 @@
 <tr>
 <td colspan=1>Amount of charge incident on the target</td> <td colspan=1><input id="btn" name="disCharge" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>nano Coulomb</td>
-<td colspan=1></td>
 <td colspan=1>Charge state of projectile</td> <td colspan=1><input id="btn" name="disChargeState" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>In terms of charge on electon</td>
 </tr>
@@ -31,7 +30,6 @@
 <tr>
 <td colspan=1>Areal density of target</td><td colspan=1><input id="btn" name="disAreal" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>g/cm3</td>
-<td colspan=1></td>
 <td colspan=1>Mass % of nuclei in the target</td><td colspan=1><input id="btn" name="disPercent" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>%</td>
 </tr>
@@ -39,14 +37,13 @@
 <tr>
 <td colspan=1>Radius of the detector</td><td colspan=1><input id="btn" name="disRadius" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>cm</td>
-<td colspan=1></td>
 <td colspan=1>Distance of detector surface from target</td><td colspan=1><input id="btn" name="disDistance" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>cm</td>
 </tr>
 
 <tr>
 <td colspan=1>Area under full energy peak</td><td colspan=1><input id="btn" name="disArea" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
-<td colspan=1></td><td colspan=1></td>
+<td colspan=1></td>
 <td colspan=1>Full energy efficiency of detector</td><td colspan=1><input id="btn" name="disEff" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1></td>
 </tr>
