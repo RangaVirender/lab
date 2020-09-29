@@ -1,3 +1,4 @@
+<img src="logo_v1.png" alt="Italian Trulli">
 
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
