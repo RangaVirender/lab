@@ -2,12 +2,13 @@
 #calc{width:900px;height:650px;}
 #btn{width:100%;height:40px;font-size:20px;}
 </style>
+
 <form Name="calc">
 <table id="calc" border=0>
 <tr>
 <td colspan=1> Atomic no of projectile</td> <td colspan=1><input id="btn" name="disZproj" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <!--<td style="displayZproj:none"><input name="M" type="number"></td>-->
-<td colspan=1></td> <td colspan=1></td>
+<td colspan=1></td>
 <td colspan=1>Mass no of projectile</td> <td colspan=1><input id="btn" name="disAproj" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1></td>
 </tr>
