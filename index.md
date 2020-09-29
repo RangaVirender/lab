@@ -3,7 +3,7 @@ Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
 Indian Institute of Technology Roorkee,\
 Roorkee- 247667, Uttarakhand, India\
-E-mail: vranga@ph.iitr.ac.in
+**E-mail: vranga@ph.iitr.ac.in**
 
 # Research
 My PhD research is focused on study of &gamma;-rays production from <sup>16</sup>O using proton beam. It includes theoretical analysis using optical model potential as well as beam-line experiment and realistic GEANT4 simulations. I use CERN-ROOT toolkit for data analysis.
