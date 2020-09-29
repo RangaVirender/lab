@@ -1,5 +1,5 @@
 <style>
-#calc{width:800px;height:700px;}
+#calc{width:900px;height:650px;}
 #btn{width:100%;height:40px;font-size:20px;}
 </style>
 <form Name="calc">
