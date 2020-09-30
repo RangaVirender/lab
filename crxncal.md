@@ -1,5 +1,5 @@
 <style>
-#calc{width:980px;}
+#calc{}
 #btn{width:100%;height:40px;font-size:20px;}
 </style>
 ## Cross section calculator
