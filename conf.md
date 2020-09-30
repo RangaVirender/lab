@@ -67,3 +67,5 @@ IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, U
 **Intrinsic resolution of Compton electrons in LaBr<sub>3</sub>:Ce and LaCl<sub>3</sub>:Ce detectors using Compton Coincidence Technique**,\
 Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016) 1020.\
 (Work done during Master's Project) (Link) 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.conf)
