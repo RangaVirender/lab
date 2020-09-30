@@ -5,11 +5,11 @@
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 385 (Link)
 
 13. A. Srivastava, S. Panwar, **<ins>V. Ranga</ins>**, G. Anil Kumar, 
-**A Direct Mathematical Method to Calculate the Efficiency of 4π Sum-Spin Spectrometer**, 
+**A Direct Mathematical Method to Calculate the Efficiency of 4&pi; Sum-Spin Spectrometer**, 
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 970 (Link)
 
 12. Y. M. Sharma, I. Mazumdar, R. Sariyal, S. M. Patel, P.B. Chavan, **<ins>V. Ranga</ins>**, S. Panwar, A. K. Gourishetty, 
-**Study of CeBr<sub>3</sub>  crystal for γ-ray measurements**, 
+**Study of CeBr<sub>3</sub>  crystal for &gamma;-ray measurements**, 
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 888 (Link)   
 
 11. V. Mendiratta, Ajit Sindhav, **<ins>V. Ranga</ins>**, S. Panwar, G. Anil Kumar, 
@@ -26,7 +26,7 @@ Proceedings of the 14th biennial DAE-BRNS Symposium on Nuclear and Radiochemistr
 Proceedings of DAE Symposium on Nuclear Physics, Vol. 63 (2018) 1206 (Link) 
 
 8. S. Panwar, **<ins>V. Ranga</ins>**, G. Anil Kumar, 
-**Efficiency of CeBr3 detector: Simulations and measurements using a positron emitter**, 
+**Efficiency of CeBr<sub>3</sub> detector: Simulations and measurements using a positron emitter**, 
 Proceedings of DAE Symposium on Nuclear Physics, Vol. 63 (2018) 1198 (Link) 
 
 7. V. Mendiratta, **<ins>V. Ranga</ins>**, S. Panwar, G. Anil Kumar, 
@@ -34,7 +34,7 @@ Proceedings of DAE Symposium on Nuclear Physics, Vol. 63 (2018) 1198 (Link)
 Proceedings of DAE Symposium on Nuclear Physics, Vol. 63 (2018) 1154 (Link) 
 
 6. S. S. Kaintura, **<ins>V. Ranga</ins>**, S. Panwar, P. Sehgal, G. Anil Kumar, 
-**Study of Compton electrons in LaBr3:Ce using compact CCT**, 
+**Study of Compton electrons in LaBr<sub>3</sub>:Ce using compact CCT**, 
 Proceedings of DAE Symposium on Nuclear Physics, Vol. 63 (2018) 1082 (Link) 
 
 5. Mukesh Prasad, **<ins>V. Ranga</ins>**, G. Anil Kumar, R. C. Ramola, 
@@ -44,18 +44,25 @@ presented by Dr. Mukesh Prasad in International Conference (IARPIC-2018) on
 
 ### 2017
 
-4. V. Ranga, Snigdha Sharma, S. Rawat, G. Anil Kumar, 
-Studies on effect of coincidence time window on intrinsic energy resolution of NaI(Tl) Detector, 
+4. **<ins>V. Ranga</ins>**, Snigdha Sharma, S. Rawat, G. Anil Kumar, 
+**Studies on effect of coincidence time window on intrinsic energy resolution of NaI(Tl) Detector**, 
 Proceedings of DAE Symposium on Nuclear Physics Vol. 62 (2017) 1108 (Work done during Master's Project) (Link) 
 
-3. V. Ranga, Snigdha Sharma, S. Rawat, M. Dhibar, G. Anil Kumar, 
-Intrinsic resolution of NaI(Tl) using PIXIE-4 data acquisition system, 
+3. **<ins>V. Ranga</ins>**, Snigdha Sharma, S. Rawat, M. Dhibar, G. Anil Kumar, 
+**Intrinsic resolution of NaI(Tl) using PIXIE-4 data acquisition system**, 
 presented by Dr. Anil Kumar Gourishetty in 
 IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA during 21-28 October 2017. 
 (Work done during Master's Project) (Link) 
 
-2. G. Anil Kumar, A. Bhagwat, S. Panwar, Snigdha Sharma, V. Ranga, S. Rawat, M. Dhibar, 
-Efficiency calibration of CeBr3 scintillator in close-geometry: Simulations and measurements, 
+2. G. Anil Kumar, A. Bhagwat, S. Panwar, Snigdha Sharma, **<ins>V. Ranga</ins>**, S. Rawat, M. Dhibar, 
+**Efficiency calibration of CeBr<sub>3</sub> scintillator in close-geometry: Simulations and measurements**, 
 presented by Dr. Anil Kumar Gourishetty in 
 IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA during 21-28 October 2017. 
+(Work done during Master's Project) (Link) 
+
+### 2016
+
+1. Snigdha Sharma, **<ins>V. Ranga</ins>**, M. Dhibar, S. Rawat, G. Anil Kumar,
+**Intrinsic resolution of Compton electrons in LaBr<sub>3</sub>:Ce and LaCl<sub>3</sub>:Ce detectors using Compton Coincidence Technique**, 
+Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016) 1020. 
 (Work done during Master's Project) (Link) 
