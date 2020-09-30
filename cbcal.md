@@ -1,9 +1,5 @@
-<style>
-#calc{width:400px;height:250px;}
-#btn{width:100%;height:40px;font-size:20px;}
-</style>
 <form Name="calc">
-<table id="calc" border=0>
+<table id="calc">
 <tr>
 <td colspan=1> Atomic no of projectile</td> 
 <td colspan=1><input id="btn" name="displayZproj" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
