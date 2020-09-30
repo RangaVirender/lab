@@ -20,4 +20,6 @@ Indian Institute of Technology Roorkee, Roorkee
 <input type=button value="Publications"></a>
 <a href="crxncal">
 <input type=button value="Cross-section calculator"></a>
+<a href="cbcal">
+<input type=button value="Coulomb barrier calculator"></a>
 
