@@ -93,4 +93,4 @@ OnClick="calc.disDiffCross.value=' ',
 </table>
 </form>
 
-Disclaimer: Use at your own risk. I am not responsible for wrong calculations.
+Please email me if you find any error.
