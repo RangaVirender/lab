@@ -20,10 +20,15 @@ Indian Institute of Technology Roorkee, Roorkee
 <input type=button value="Publications"></a>
 <a href="proj">
 <input type=button value="Projects"></a>
+
+<a href="geant4">
+<input type=button value="GEANT4 installation"></a>
+
 <a href="crxncal">
 <input type=button value="Cross-section calculator"></a>
 <a href="cbcal">
 <input type=button value="Coulomb barrier calculator"></a>
+
 <a href="others">
 <input type=button value="Others"></a>
 
