@@ -1,4 +1,8 @@
 ## Cross section calculator
+<style>
+#calc{width:700px;height:250px;}
+#btn{width:100%;height:40px;font-size:20px;}
+</style>
 <form Name="calc">
 <table id="calc">
 <tr>
