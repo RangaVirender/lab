@@ -1,6 +1,6 @@
 <style>
 #calc{}
-#btn{width:100%;}
+#btn{}
 </style>
 ## Cross section calculator
 <form Name="calc">
