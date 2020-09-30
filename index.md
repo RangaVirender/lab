@@ -16,8 +16,8 @@ M.Sc. Physics(2015-17)\
 Indian Institute of Technology Roorkee, Roorkee
 
 ---
-<a href="https://rangavirender.github.io/mywebsite/publications">
+<a href="publ">
 <input type=button value="Publications"></a>
-<a href="https://rangavirender.github.io/mywebsite/crxncal">
+<a href="crxncal">
 <input type=button value="Cross-section calculator"></a>
 
