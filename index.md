@@ -24,3 +24,5 @@ Indian Institute of Technology Roorkee, Roorkee
 <input type=button value="Coulomb barrier calculator"></a>
 <a href="others">
 <input type=button value="Others"></a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site)
