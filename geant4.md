@@ -46,19 +46,10 @@ This guide is for installation of geant4.10.04 in ubuntu 18.04. However, it shou
 ```bash
     make -j4
     make install
-```bash
+```
 4 is the number of cores my CPU have. Change according to your CPU.    
 
 ### Congratulations...Geant4 is now installed.
 
-cd examples/masterbuild
 
-cmake -DGeant4_DIR=~/geant4.9.6.p04install/lib/Geant4-9.6.4
-
-~/geant4.9.6.p04/examples/cyliSD
-
-make -j4
-
-source /home/ranga/geant4.9.6.p04install/bin/geant4.sh
-
-./cyliSD
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.geant4)
