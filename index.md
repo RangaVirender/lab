@@ -18,6 +18,8 @@ Indian Institute of Technology Roorkee, Roorkee
 ---
 <a href="publ">
 <input type=button value="Publications"></a>
+<a href="proj">
+<input type=button value="Projects"></a>
 <a href="crxncal">
 <input type=button value="Cross-section calculator"></a>
 <a href="cbcal">
