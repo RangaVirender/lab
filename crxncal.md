@@ -1,7 +1,3 @@
-<style>
-#calc{}
-#btn{}
-</style>
 ## Cross section calculator
 <form Name="calc">
 <table id="calc" border=1>
