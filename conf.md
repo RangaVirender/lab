@@ -55,15 +55,15 @@ presented by Dr. Anil Kumar Gourishetty in\
 IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA\
 during 21-28 October 2017. (Work done during Master's Project) (Link) 
 
-2. G. Anil Kumar, A. Bhagwat, S. Panwar, Snigdha Sharma, **<ins>V. Ranga</ins>**, S. Rawat, M. Dhibar, 
-**Efficiency calibration of CeBr<sub>3</sub> scintillator in close-geometry: Simulations and measurements**, 
-presented by Dr. Anil Kumar Gourishetty in 
-IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA during 21-28 October 2017. 
+2. G. Anil Kumar, A. Bhagwat, S. Panwar, Snigdha Sharma, **<ins>V. Ranga</ins>**, S. Rawat, M. Dhibar,\
+**Efficiency calibration of CeBr<sub>3</sub> scintillator in close-geometry: Simulations and measurements**,\
+presented by Dr. Anil Kumar Gourishetty in\
+IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA during 21-28 October 2017.\
 (Work done during Master's Project) (Link) 
 
 ### 2016
 
-1. Snigdha Sharma, **<ins>V. Ranga</ins>**, M. Dhibar, S. Rawat, G. Anil Kumar,
-**Intrinsic resolution of Compton electrons in LaBr<sub>3</sub>:Ce and LaCl<sub>3</sub>:Ce detectors using Compton Coincidence Technique**, 
-Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016) 1020. 
+1. Snigdha Sharma, **<ins>V. Ranga</ins>**, M. Dhibar, S. Rawat, G. Anil Kumar,\
+**Intrinsic resolution of Compton electrons in LaBr<sub>3</sub>:Ce and LaCl<sub>3</sub>:Ce detectors using Compton Coincidence Technique**,\
+Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016) 1020.\
 (Work done during Master's Project) (Link) 
