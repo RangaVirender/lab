@@ -23,11 +23,6 @@ Indian Institute of Technology Roorkee, Roorkee
 <a href="tools">
 <input type=button value="Tools"></a>
 
-<a href="others">
-<input type=button value="Others"></a>
-<a href="links">
-<input type=button value="Links"></a>
-
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site)
 
