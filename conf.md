@@ -68,6 +68,7 @@ IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, U
 Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016) 1020.\
 (Work done during Master's Project) (Link) 
 
+---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.conf)
 
 <p align="center">
