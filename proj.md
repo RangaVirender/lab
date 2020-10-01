@@ -15,3 +15,7 @@ Tata Institute of Fundamental Research, Mumbai India\
 Studied neutrino mixing formalism for two and three flavors of neutrino
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.proj)
+
+<p align="center">
+<img src="logo_v1.png" width="30">
+</p>
