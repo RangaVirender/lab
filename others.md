@@ -8,4 +8,4 @@ $$
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.others)
 
-![GitHub Logo](/images/logo.png)
+![logo](logo_v1.png)
