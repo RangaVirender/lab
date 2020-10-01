@@ -15,10 +15,15 @@ Tata Institute of Fundamental Research, Mumbai India\
 Studied neutrino mixing formalism for two and three flavors of neutrino
 
 ## Assisted B.Tech. Projects
-3. **Efficiency Calibration of Scintillation Detector using Compact Compton Coincidence Technique : GEANT4 simulations**\
+4. **Efficiency Calibration of Scintillation Detector using Compact Compton Coincidence Technique : GEANT4 simulations**\
    Mr. Vibhor Mendiratta\
    2019\
    [Publication](http://sympnp.org/proceedings/64/G17.pdf)
+
+3. **A Direct Mathematical Method to Calculate the Efficiency of 4&pi; Sum-Spin Spectrometer**\
+   Mr. Asit Srivastava\
+   2019\
+   [Publication](http://sympnp.org/proceedings/64/G62.pdf)
    
 2. **Studies on angular correlation of gamma rays using GEANT4**\
    Mr. Vibhor Mendiratta\
