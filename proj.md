@@ -15,10 +15,16 @@ Tata Institute of Fundamental Research, Mumbai India\
 Studied neutrino mixing formalism for two and three flavors of neutrino
 
 ## Assisted B.Tech. Projects
+
+2. **Studies on angular correlation of gamma rays using GEANT4**\
+   Mr. Vibhor Mendiratta\
+   2018\
+   [Publication](https://s3.cern.ch/inspire-prod-files-c/c96a9e3bba6f81f2f2470d25f4485968)
+   
 1. **GEANT4 simulations on shielding materials for neutrons**\
    Ms. Gargi Kekre\
    2018\
-   [Publication](http://sympnp.org/proceedings/63/G86.pdf)
+   [Publication](https://s3.cern.ch/inspire-prod-files-a/ae1d4e3c3d412997fcee447418dde49b)
    
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.proj)
