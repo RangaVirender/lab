@@ -8,4 +8,4 @@ $$
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.others)
 
-![logo](logo_v1.png)
+<img align="middle" src="logo_v1.png" width="50" />
