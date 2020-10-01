@@ -19,4 +19,4 @@ Journal of Radioanalytical and Nuclear Chemistry, (October 2019) 1-14 (Link)
 IEEE Trans. on Nucl. Sci., 65 (January 2018) 616-620 (Link) 
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.publ)<p align="center"><img src="logo_v1.png" width="30"></p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.publ) <p align="center"><img src="logo_v1.png" width="30"></p>
