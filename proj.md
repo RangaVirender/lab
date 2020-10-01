@@ -16,7 +16,7 @@ Studied neutrino mixing formalism for two and three flavors of neutrino
 
 ## Assisted B.Tech. Projects
 4. **Efficiency Calibration of Scintillation Detector using Compact Compton Coincidence Technique : GEANT4 simulations**\
-   Mr. Vibhor Mendiratta\
+   Mr. Vibhore Mendiratta\
    2019\
    [Publication](http://sympnp.org/proceedings/64/G17.pdf)
 
@@ -26,7 +26,7 @@ Studied neutrino mixing formalism for two and three flavors of neutrino
    [Publication](http://sympnp.org/proceedings/64/G62.pdf)
    
 2. **Studies on angular correlation of gamma rays using GEANT4**\
-   Mr. Vibhor Mendiratta\
+   Mr. Vibhore Mendiratta\
    2018\
    [Publication](https://s3.cern.ch/inspire-prod-files-c/c96a9e3bba6f81f2f2470d25f4485968)
    
