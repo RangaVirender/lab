@@ -92,6 +92,14 @@ OnClick="calc.disDiffCross.value=' ',
 </table>
 </form>
 
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+
+$$
+\dfrac{d\sigma(E,\theta)}{d\Omega}=\dfrac{Y}{N_pN_t\Omega\epsilon}
+$$
+
 Please email me if you find any error.
 
 ---
@@ -100,3 +108,5 @@ Please email me if you find any error.
 <p align="center">
 <img src="logo_v1.png" width="30">
 </p>
+
+
