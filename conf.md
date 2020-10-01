@@ -69,3 +69,7 @@ Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016)
 (Work done during Master's Project) (Link) 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.conf)
+
+<p align="center">
+<img src="logo_v1.png" width="30">
+</p>
