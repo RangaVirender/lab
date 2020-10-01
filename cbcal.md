@@ -27,3 +27,7 @@
 Please email me if you find any error.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.cbcal)
+
+<p align="center">
+<img src="logo_v1.png" width="30">
+</p>
