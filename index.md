@@ -20,19 +20,13 @@ Indian Institute of Technology Roorkee, Roorkee
 <input type=button value="Publications"></a>
 <a href="proj">
 <input type=button value="Projects"></a>
-<a href="links">
-<input type=button value="Links"></a>
-
-<a href="geant4">
-<input type=button value="GEANT4 installation"></a>
-
-<a href="crxncal">
-<input type=button value="Cross-section calculator"></a>
-<a href="cbcal">
-<input type=button value="Coulomb barrier calculator"></a>
+<a href="tools">
+<input type=button value="Tools"></a>
 
 <a href="others">
 <input type=button value="Others"></a>
+<a href="links">
+<input type=button value="Links"></a>
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site)
