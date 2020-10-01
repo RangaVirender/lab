@@ -14,6 +14,7 @@ Homi Bhabha Center for Sciemce and Education,\
 Tata Institute of Fundamental Research, Mumbai India\
 Studied neutrino mixing formalism for two and three flavors of neutrino
 
+---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.proj)
 
 <p align="center">
