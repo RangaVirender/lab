@@ -6,6 +6,7 @@ $$
 x_{1,2} = \frac{-5 \pm \sqrt{5^2-12}}{6}
 $$
 
+---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.others)
 
 <p align="center">
