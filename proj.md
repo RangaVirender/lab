@@ -31,7 +31,7 @@ Studied neutrino mixing formalism for two and three flavors of neutrino
    [Publication](https://s3.cern.ch/inspire-prod-files-c/c96a9e3bba6f81f2f2470d25f4485968)
    
 1. **GEANT4 simulations on shielding materials for neutrons**\
-   Ms. Gargi Kekre\
+   Ms. Gargi Kekre (Software developer at Tesco)\
    2018\
    [Publication](https://s3.cern.ch/inspire-prod-files-a/ae1d4e3c3d412997fcee447418dde49b)
    
