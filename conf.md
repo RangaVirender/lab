@@ -48,26 +48,27 @@ held during 16-20 January, 2018 at BARC, Mumbai (Link)
 4. **<ins>V. Ranga</ins>**, Snigdha Sharma, S. Rawat, G. Anil Kumar,\
 **Studies on effect of coincidence time window on intrinsic energy resolution of NaI(Tl) Detector**,\
 Proceedings of DAE Symposium on Nuclear Physics Vol. 62 (2017) 1108\
-<ins>(Work done during Master's Project)</ins> (Link) 
+**<ins>(Work done during M.Sc. project)</ins>** (Link) 
 
 3. **<ins>V. Ranga</ins>**, Snigdha Sharma, S. Rawat, M. Dhibar, G. Anil Kumar,\
 **Intrinsic resolution of NaI(Tl) using PIXIE-4 data acquisition system**,\
 presented by Dr. Anil Kumar Gourishetty in\
 IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA\
-during 21-28 October 2017. (Work done during Master's Project) (Link) 
+during 21-28 October 2017.\
+**<ins>(Work done during M.Sc. project)</ins>** (Link) 
 
 2. G. Anil Kumar, A. Bhagwat, S. Panwar, Snigdha Sharma, **<ins>V. Ranga</ins>**, S. Rawat, M. Dhibar,\
 **Efficiency calibration of CeBr<sub>3</sub> scintillator in close-geometry: Simulations and measurements**,\
 presented by Dr. Anil Kumar Gourishetty in\
 IEEE Nuclear Science Symposium and Medical Imaging Conference held in Atlanta, USA during 21-28 October 2017.\
-(Work done during Master's Project) (Link) 
+**<ins>(Work done during M.Sc. project)</ins>** (Link) 
 
 ### 2016
 
 1. Snigdha Sharma, **<ins>V. Ranga</ins>**, M. Dhibar, S. Rawat, G. Anil Kumar,\
 **Intrinsic resolution of Compton electrons in LaBr<sub>3</sub>:Ce and LaCl<sub>3</sub>:Ce detectors using Compton Coincidence Technique**,\
 Proceedings of DAE Symposium on Nuclear Physics (Govt. of India), Vol. 61 (2016) 1020.\
-(Work done during Master's Project) (Link) 
+**<ins>(Work done during M.Sc. project)</ins>** (Link) 
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.conf)
