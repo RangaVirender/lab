@@ -47,7 +47,8 @@ held during 16-20 January, 2018 at BARC, Mumbai (Link)
 
 4. **<ins>V. Ranga</ins>**, Snigdha Sharma, S. Rawat, G. Anil Kumar,\
 **Studies on effect of coincidence time window on intrinsic energy resolution of NaI(Tl) Detector**,\
-Proceedings of DAE Symposium on Nuclear Physics Vol. 62 (2017) 1108 (Work done during Master's Project) (Link) 
+Proceedings of DAE Symposium on Nuclear Physics Vol. 62 (2017) 1108\
+<ins>(Work done during Master's Project)</ins> (Link) 
 
 3. **<ins>V. Ranga</ins>**, Snigdha Sharma, S. Rawat, M. Dhibar, G. Anil Kumar,\
 **Intrinsic resolution of NaI(Tl) using PIXIE-4 data acquisition system**,\
