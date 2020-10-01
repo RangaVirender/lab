@@ -15,7 +15,11 @@ Tata Institute of Fundamental Research, Mumbai India\
 Studied neutrino mixing formalism for two and three flavors of neutrino
 
 ## Assisted B.Tech. Projects
-
+3. **Efficiency Calibration of Scintillation Detector using Compact Compton Coincidence Technique : GEANT4 simulations**\
+   Mr. Vibhor Mendiratta\
+   2019\
+   [Publication](http://sympnp.org/proceedings/64/G17.pdf)
+   
 2. **Studies on angular correlation of gamma rays using GEANT4**\
    Mr. Vibhor Mendiratta\
    2018\
