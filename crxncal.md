@@ -94,6 +94,7 @@ OnClick="calc.disDiffCross.value=' ',
 
 Please email me if you find any error.
 
+---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.crxncal)
 
 <p align="center">
