@@ -12,6 +12,8 @@
 
 [NNDC](https://www.nndc.bnl.gov/)\
 [EXFOR](https://www-nds.iaea.org/exfor/)
+---
+[Q-value calculator](https://www.nndc.bnl.gov/qcalc/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.links)
 
