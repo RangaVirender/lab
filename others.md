@@ -5,6 +5,9 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 $$
 x_{1,2} = \frac{-5 \pm \sqrt{5^2-12}}{6}
 $$
+<p align="right">
+<img src="des1.png" width="30">
+</p>
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.others)
