@@ -23,7 +23,7 @@
 <td colspan=1>Amount of charge incident on the target</td> <td colspan=1><input id="btn" name="disCharge" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>nano Coulomb</td>
 <td colspan=1>Charge state of projectile</td> <td colspan=1><input id="btn" name="disChargeState" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
-<td colspan=1>In terms of charge on electon</td>
+<td colspan=1>units of e</td>
 </tr>
 
 <tr>
