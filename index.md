@@ -1,11 +1,4 @@
-<style>
-body {
-  background-image: url('des1.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>
+background-image: url('des1.png');
 
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
