@@ -1,4 +1,6 @@
+<style>
 background-image: url('des1.png');
+</style>
 
 Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
