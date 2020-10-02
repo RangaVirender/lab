@@ -14,8 +14,8 @@
  Journal of Radioanalytical and Nuclear Chemistry, (October 2019) 1-14 ([Link](https://doi.org/10.1007/s10967-019-06827-9)) 
 
 ### 2018
-1. **<ins>V. Ranga</ins>**, S. Rawat, Snigdha Sharma, Mukesh Prasad, S. Panwar, Kalyani, M. Dhibar, G. Anil Kumar,\  
- **Intrinsic Resolution of Compton Electrons in CeBr<sub>3</sub> Scintillator Using Compact CCT**,\
+1. **<ins>V. Ranga</ins>**, S. Rawat, Snigdha Sharma, Mukesh Prasad, S. Panwar, Kalyani, M. Dhibar, G. Anil Kumar,\
+**Intrinsic Resolution of Compton Electrons in CeBr<sub>3</sub> Scintillator Using Compact CCT**,\
  IEEE Trans. on Nucl. Sci., 65 (January 2018) 616-620 ([Link](https://doi.org/10.1109/TNS.2017.2779888))
 
 ---
