@@ -1,18 +1,18 @@
 ## Conferences/Symposia
 ### 2019
-14. **<ins>V. Ranga</ins>**, I. Mazumdar, S. Panwar, R. Sariyal, S. M. Patel, P. B. Chavan, A. K. Rhine Kumar, G. Anil Kumar, S. P. Weppner,\
+14) **<ins>V. Ranga</ins>**, I. Mazumdar, S. Panwar, R. Sariyal, S. M. Patel, P. B. Chavan, A. K. Rhine Kumar, G. Anil Kumar, S. P. Weppner,\
 **Study of <sup>16</sup>O(p,p&prime;&gamma;)<sup>16</sup>O  reaction**,\
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 385 ([Link](http://sympnp.org/proceedings/64/B33.pdf))
 
-13. A. Srivastava, S. Panwar, **<ins>V. Ranga</ins>**, G. Anil Kumar,\
+13) A. Srivastava, S. Panwar, **<ins>V. Ranga</ins>**, G. Anil Kumar,\
 **A Direct Mathematical Method to Calculate the Efficiency of 4&pi; Sum-Spin Spectrometer**,\
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 970 ([Link](http://sympnp.org/proceedings/64/G62.pdf))
 
-12. Y. M. Sharma, I. Mazumdar, R. Sariyal, S. M. Patel, P.B. Chavan, **<ins>V. Ranga</ins>**, S. Panwar, A. K. Gourishetty,\
+12) Y. M. Sharma, I. Mazumdar, R. Sariyal, S. M. Patel, P.B. Chavan, **<ins>V. Ranga</ins>**, S. Panwar, A. K. Gourishetty,\
 **Study of CeBr<sub>3</sub>  crystal for &gamma;-ray measurements**,\
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 888 ([Link](http://sympnp.org/proceedings/64/G21.pdf)) 
 
-11. V. Mendiratta, Ajit Sindhav, **<ins>V. Ranga</ins>**, S. Panwar, G. Anil Kumar,\
+11) V. Mendiratta, Ajit Sindhav, **<ins>V. Ranga</ins>**, S. Panwar, G. Anil Kumar,\
 **Efficiency Calibration of Scintillation Detector using Compact Compton Coincidence Technique: GEANT4 simulations**,\
 Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 880 ([Link](http://sympnp.org/proceedings/64/G17.pdf)) 
 
