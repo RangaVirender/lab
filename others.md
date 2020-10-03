@@ -1,7 +1,7 @@
 <script type="text/javascript" charset="utf-8" 
 src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
-<div background-color: lightblue;>
+<div style="background-color:lightblue;">
 $$
 x_{1,2} = \frac{-5 \pm \sqrt{5^2-12}}{6}
 $$
