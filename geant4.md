@@ -7,18 +7,7 @@ This guide is for installation of geant4.10.04 in ubuntu 18.04. However, it shou
 
 2. Install pre-requisites
 ```bash
-    sudo apt-get install cmake
-    sudo apt-get install gcc
-    sudo apt-get install g++ 
-    sudo apt-get install expat
-    sudo apt-get install libexpat1-dev
-    sudo apt-get install default-jre
-    sudo apt-get install default-jdk
-    sudo apt-get install qt4-default
-    sudo apt-get install cmake-qt-gui
-    sudo apt-get install mesa-common-dev
-    sudo apt-get install libglu1-mesa-dev
-    sudo apt-get install libxmu-dev
+    sudo apt-get install cmake gcc g++ expat libexpat1-dev default-jre default-jdk qt4-default cmake-qt-gui mesa-common-dev libglu1-mesa-dev libxmu-dev
 ```    
 
 3. Download the latest geant4 source code from geant4 website
