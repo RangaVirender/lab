@@ -36,7 +36,7 @@
 ```
 4 is the number of cores in my CPU. Change according to your CPU.
 
-Congratulations…ROOT is now installed.
+Congratulations…ROOT is now installed.\
 Please email me if you find any error.
 
 ---
