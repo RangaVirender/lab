@@ -1,6 +1,6 @@
 <a href="geant4">
 <input type=button value="Install CERN-GEANT4"></a>
-<a href="cernroot">
+<a href="root">
 <input type=button value="Install CERN-ROOT"></a>
 <a href="cbcal">
 <input type=button value="Coulomb barrier calculator"></a>
