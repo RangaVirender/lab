@@ -10,7 +10,7 @@
 
 3. Download the latest root source code from cern website
 ```bash
-    https://root.cern/download/root_v6.22.00.source.tar.gz
+    wget "https://root.cern/download/root_v6.22.00.source.tar.gz"
 ```
 
 4. Extract the source code
