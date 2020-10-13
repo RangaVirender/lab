@@ -5,7 +5,7 @@
 
 2. Install pre-requisites
 ```bash
-    sudo apt-get install dpkg-dev cmake g++ gcc binutils libx11-dev libxpm-dev libxft-dev libxext-dev libpng-dev libjpeg-dev python libssl-dev 
+    sudo apt-get install dpkg-dev cmake g++ gcc binutils libx11-dev libxpm-dev libxft-dev libxext-dev libpng-dev libjpeg-dev python-dev libssl-dev 
 ```
 
 3. Download the latest root source code from cern website
