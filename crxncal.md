@@ -84,7 +84,7 @@ OnClick="calc.disDiffCross.value=' ',
 
 <tr>
 <td colspan=2><input id="btn" name="disDiffCross" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
-<td colspan=1>milli barn</td>
+<td colspan=1>milli barn sr<sup>-1</sup></td>
 <td colspan=2><input id="btn" name="disTotalCross" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=2>milli barn</td>
 
