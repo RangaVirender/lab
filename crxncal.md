@@ -28,7 +28,7 @@
 
 <tr>
 <td colspan=1>Areal density of target</td><td colspan=1><input id="btn" name="disAreal" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
- <td colspan=1>g cm<sup>-3</sup></td>
+ <td colspan=1>g cm<sup>-2</sup></td>
 <td colspan=1>Mass % of nuclei in the target</td><td colspan=1><input id="btn" name="disPercent" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>%</td>
 </tr>
