@@ -1,4 +1,4 @@
-Research Scholar\
+Research Scholar,\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
 Indian Institute of Technology Roorkee,\
