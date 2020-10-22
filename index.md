@@ -2,7 +2,7 @@ Research Scholar\
 Radiation Detectors and Spectroscopy Laboratory,\
 Department of Physics,\
 Indian Institute of Technology Roorkee,\
-Roorkee- 247667, Uttarakhand, India\
+Roorkee-247667, Uttarakhand, India\
 **E-mail: vranga@ph.iitr.ac.in**
 
 # Research
