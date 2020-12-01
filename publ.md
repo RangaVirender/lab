@@ -8,6 +8,7 @@
  **Characterization of a Sr co-doped LaBr<sub>3</sub>:Ce detector for gamma-ray spectroscopy**,\
  NIM A, 20 August 2020, 164567 ([Link](https://doi.org/10.1016/j.nima.2020.164567))
 
+
 2. Mukesh Prasad, **<ins>V. Ranga</ins>**, G. Anil Kumar, R. C. Ramola,\
  **Radiological impact assessment of soil and groundwater of Himalayan regions in Uttarakhand, India**,\
  Journal of Radioanalytical and Nuclear Chemistry, 323 (2020) 1269–1282 ([Link](https://doi.org/10.1007/s10967-019-06827-9)) 
