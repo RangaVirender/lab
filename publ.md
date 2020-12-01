@@ -11,7 +11,7 @@
 ### 2019
 2. Mukesh Prasad, **<ins>V. Ranga</ins>**, G. Anil Kumar, R. C. Ramola,\
  **Radiological impact assessment of soil and groundwater of Himalayan regions in Uttarakhand, India**,\
- Journal of Radioanalytical and Nuclear Chemistry, (October 2019) 1-14 ([Link](https://doi.org/10.1007/s10967-019-06827-9)) 
+ Journal of Radioanalytical and Nuclear Chemistry, 323 (2020) 1269–1282 ([Link](https://doi.org/10.1007/s10967-019-06827-9)) 
 
 ### 2018
 1. **<ins>V. Ranga</ins>**, S. Rawat, Snigdha Sharma, Mukesh Prasad, S. Panwar, Kalyani, M. Dhibar, G. Anil Kumar,\
