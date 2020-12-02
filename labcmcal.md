@@ -1,4 +1,4 @@
-## Lab energy to CoM energy convertor
+## Lab energy-CoM energy convertor
 <form Name="calc1">
 <table id="calc">
 <tr>
