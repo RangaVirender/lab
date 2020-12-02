@@ -6,8 +6,8 @@
 <input type=button value="Coulomb barrier calculator"></a>
 <a href="crxncal">
 <input type=button value="Cross section calculator"></a>
-<a href="labtocmcal">
-<input type=button value="Lab to CM energy convertor"></a>
+<a href="labcmcal">
+<input type=button value="Lab-CM energy convertor"></a>
 
 <a href="links">
 <input type=button value="Useful links"></a>
