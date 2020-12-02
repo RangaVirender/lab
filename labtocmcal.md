@@ -3,16 +3,16 @@
 <table id="calc">
 <tr>
 <td colspan=1>Lab Energy</td>
-<td colspan=1><input id="btn" name="displayLabEnergy" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
+<td colspan=1><input id="btn" name="displayLabEnergy" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>MeV</td>
 </tr>
 <tr>
 <td colspan=1>Mass no of projectile</td>
-<td colspan=1><input id="btn" name="displayAproj" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
+<td colspan=1><input id="btn" name="displayAproj" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 </tr>
 <tr>
 <td colspan=1>Mass no of target</td>
-<td colspan=1><input id="btn" name="displayAtarget" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
+<td colspan=1><input id="btn" name="displayAtarget" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 </tr>
 
 
@@ -22,7 +22,7 @@
 <td colspan=2><input id="btn" type=button value="Clear" OnClick="calc.displayCMEnergy.value=' ',calc.displayAproj.value=' ',calc.displayAtarget.value=' '"></td>
 </tr>
 <tr>
-<td colspan=2><input id="btn" name="displayCMEnergy" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
+<td colspan=2><input id="btn" name="displayCMEnergy" onkeypress="return event.charCode >= 42 && event.charCode <= 57" type="text"></td>
 <td colspan=1>MeV</td>
 </tr>
 </table>
