@@ -17,7 +17,7 @@
 
 <tr>
 <td colspan=2><input id="btn" type=button value="Calculate" OnClick="calc.displayCMEnergy.value=calc.displayLabEnergy.value*(calc.displayAproj.value+calc.displayAtarget.value)/calc.displayAtarget.value"></td>
-<td colspan=2><input id="btn" type=button value="Clear" OnClick="calc.displayCB.value=' ',calc.displayZproj.value=' ',calc.displayAproj.value=' ',calc.displayZtarget.value=' ',calc.displayAtarget.value=' '"></td>
+<td colspan=2><input id="btn" type=button value="Clear" OnClick="calc.displayCMEnergy.value=' ',calc.displayAproj.value=' ',calc.displayAtarget.value=' '"></td>
 </tr>
 <tr>
 <td colspan=2><input id="btn" name="displayCMEnergy" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
