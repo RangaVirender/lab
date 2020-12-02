@@ -4,6 +4,7 @@
 <tr>
 <td colspan=1>Lab Energy</td>
 <td colspan=1><input id="btn" name="displayLabEnergy" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
+<td colspan=1>MeV</td>
 </tr>
 <tr>
 <td colspan=1>Mass no of projectile</td>
@@ -22,7 +23,7 @@
 </tr>
 <tr>
 <td colspan=2><input id="btn" name="displayCMEnergy" onkeypress="return event.charCode >= 48 && event.charCode <= 57" type="text"></td>
-<td colspan=2>MeV</td>
+<td colspan=1>MeV</td>
 </tr>
 </table>
 </form>
