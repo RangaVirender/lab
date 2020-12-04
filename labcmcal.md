@@ -56,7 +56,7 @@
 Please email me if you find any error.
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.labtocmcal)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.labcmcal)
 
 <p align="center">
 <img src="logo_v1.png" width="30">
