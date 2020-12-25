@@ -11,6 +11,8 @@
 
 <a href="links">
 <input type=button value="Useful links"></a>
+<a href="https://www.nndc.bnl.gov/qcalc/">
+<input type=button value="Q-value Calculator"></a>
 
 
 ---
