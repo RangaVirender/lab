@@ -22,7 +22,7 @@ Indian Institute of Technology Roorkee, Roorkee
 <input type=button value="Projects"></a>
 <a href="tools">
 <input type=button value="Tools"></a>
-<a href="/new_site/index.html">
+<a href="/new/index.html">
 <input type=button value="New Site"></a>
 
 ---
