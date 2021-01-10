@@ -48,7 +48,7 @@
 </tr>
 
 <tr>
-<td colspan=3><input id="btn" type=button cursor=pointer value="Calculate"
+<td colspan=3><input id="btn" type=button value="Calculate"
  OnClick="calc.disDiffCross.value=(
  calc.disArea.value*
  calc.disChargeState.value*1.6e-19*
