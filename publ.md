@@ -6,7 +6,7 @@
 
 ### 2021
 4) R. Sariyal, I. Mazumdar, Y.M. Sharma, S.M. Patel, P.B. Chavan, **<ins>V. Ranga</ins>**, S. Panwar, A.K. Gourishetty and S. Dubey,\
- **Characterisation of a small volume (1'' × 1'') CeBr<sub>3</sub> crystal for γ-ray measurements up to 4.4 MeV**
+ **Characterisation of a small volume (1'' × 1'') CeBr<sub>3</sub> crystal for γ-ray measurements up to 4.4 MeV**,\
  Journal of Instrumentation, 16 (2021) ([Link](https://doi.org/10.1088/1748-0221/16/01/T01004))
 
 ### 2020
