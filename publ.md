@@ -3,6 +3,11 @@
 <input type=button value="Conferences/Symposia"></a>
 
 ## Journals
+###2021
+4) R. Sariyal, I. Mazumdar, Y.M. Sharma, S.M. Patel, P.B. Chavan, V. Ranga, S. Panwar, A.K. Gourishetty and S. Dubey,\
+ **Characterisation of a small volume (1'' × 1'') CeBr<sub>3</sub> crystal for γ-ray measurements up to 4.4 MeV**
+ Journal of Instrumentation, 16 (2021) ([Link](https://doi.org/10.1088/1748-0221/16/01/T01004))
+
 ### 2020
 3) S. Panwar, I. Mazumdar, R. Sariyal, **<ins>V. Ranga</ins>**, S. M. Patel, P. B. Chavan, A. K. Gourishetty,\
  **Characterization of a Sr co-doped LaBr<sub>3</sub>:Ce detector for gamma-ray spectroscopy**,\
