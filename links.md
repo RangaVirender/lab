@@ -2,7 +2,7 @@
 <a href="https://www.iitr.ac.in/departments/PH/pages/index.html" target="_blank">Department of Physics, IIT Roorkee</a> \
 <a href="https://rdslab.iitr.ac.in/" target="_blank">RDS Lab, IIT Roorkee</a> 
 
-<a href="https://geant4.web.cern.ch/" target="_blank">CERN-GEANT4</a> \ 
+<a href="https://geant4.web.cern.ch/" target="_blank">CERN-GEANT4</a> \
 <a href="https://root.cern.ch/" target="_blank">CERN-ROOT</a> 
 
 <a href="https://www.tifr.res.in/" target="_blank">TIFR, Mumbai, India</a> \
