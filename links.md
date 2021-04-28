@@ -5,14 +5,14 @@
 <a href="https://geant4.web.cern.ch/" target="_blank">CERN-GEANT4</a> \ 
 <a href="https://root.cern.ch/" target="_blank">CERN-ROOT</a> 
 
-<a href="https://www.tifr.res.in/" target="_blank">TIFR, Mumbai, India</a>
-[BARC, Mumbai, India](http://www.barc.gov.in/index.html)\
-[IUAC, New Delhi, India](https://www.iuac.res.in/)
+<a href="https://www.tifr.res.in/" target="_blank">TIFR, Mumbai, India</a> \
+<a href="http://www.barc.gov.in/index.html" target="_blank">BARC, Mumbai, India</a> \
+<a href="https://www.iuac.res.in/" target="_blank">IUAC, New Delhi, India</a>
 
-[NNDC](https://www.nndc.bnl.gov/)\
-[EXFOR](https://www-nds.iaea.org/exfor/)
+<a href="https://www.nndc.bnl.gov/" target="_blank">NNDC</a> \
+<a href="https://www-nds.iaea.org/exfor/" target="_blank">EXFOR</a>
 
-[Q-value calculator](https://www.nndc.bnl.gov/qcalc/)
+<a href="https://www.nndc.bnl.gov/qcalc/" target="_blank">Q-value calculator</a>
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.links)
