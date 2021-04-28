@@ -1,6 +1,6 @@
-<a href="https://www.iitr.ac.in/" target="_blank">IIT Roorkee, Roorkee, India</a>
-<a href="https://www.iitr.ac.in/departments/PH/pages/index.html" target="_blank">Department of Physics, IIT Roorkee</a>
-<a href="https://rdslab.iitr.ac.in/" target="_blank">RDS Lab, IIT Roorkee</a>
+<a href="https://www.iitr.ac.in/" target="_blank">IIT Roorkee, Roorkee, India</a> \
+<a href="https://www.iitr.ac.in/departments/PH/pages/index.html" target="_blank">Department of Physics, IIT Roorkee</a> \
+<a href="https://rdslab.iitr.ac.in/" target="_blank">RDS Lab, IIT Roorkee</a> 
 
 [CERN-GEANT4](https://geant4.web.cern.ch/)\
 [CERN-ROOT](https://root.cern.ch/)
