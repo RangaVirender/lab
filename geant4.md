@@ -36,7 +36,7 @@ This guide is for installation of geant4.10.04 in ubuntu 18.04. However, it shou
     make -j4
     make install
 ```
-4 is the number of cores in my CPU. Change according to your CPU.    
+4 is the number of logical processors in my CPU. Change according to your CPU.    
 
 ### Congratulations...Geant4 is now installed.
 
