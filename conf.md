@@ -2,7 +2,7 @@
 ### 2019
 14) **<ins>V. Ranga</ins>**, I. Mazumdar, S. Panwar, R. Sariyal, S. M. Patel, P. B. Chavan, A. K. Rhine Kumar, G. Anil Kumar, S. P. Weppner,\
 **Study of <sup>16</sup>O(p,p&prime;&gamma;)<sup>16</sup>O  reaction**,\
-Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 385 (<a href="http://sympnp.org/proceedings/64/B33.pdf" target="_blank">link</a>,<a href="http://rangavirender.github.io/site/2019Ranga_DAE_16O.pdf" target="_blank">file</a>)
+Proceedings of 64th DAE-BRNS Symposium on Nuclear Physics, 64 (2019) 385 (<a href="http://sympnp.org/proceedings/64/B33.pdf" target="_blank">link</a>,<a href="http://rangavirender.github.io/site/conf/2019Ranga_DAE_16O.pdf" target="_blank">file</a>)
 
 13) A. Srivastava, S. Panwar, **<ins>V. Ranga</ins>**, G. Anil Kumar,\
 **A Direct Mathematical Method to Calculate the Efficiency of 4&pi; Sum-Spin Spectrometer**,\
