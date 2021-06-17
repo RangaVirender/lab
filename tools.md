@@ -1,6 +1,8 @@
 <a href="wsl">
 <input type=button value="Install Windows Subsystem for Linux(WSL)"></a>
+
 ---
+
 <a href="geant4">
 <input type=button value="Install CERN-GEANT4"></a>
 <a href="root">
@@ -16,8 +18,11 @@
 <input type=button value="Useful links"></a>
 <a href="https://www.nndc.bnl.gov/qcalc/">
 <input type=button value="Q-value Calculator"></a>
+
+---
+
 <a href="https://www.markdownguide.org/basic-syntax/">
-<value="Q-value Calculator"></a>
+<value="MarkDown Syntax"></a>
 
 
 ---
