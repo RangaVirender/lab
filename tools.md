@@ -21,9 +21,7 @@
 
 ---
 
-<a href="https://www.markdownguide.org/basic-syntax/">
-<value="MarkDown Syntax"></a>
-
+[MarkDown Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.tools)
