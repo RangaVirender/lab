@@ -11,7 +11,6 @@
 <input type=button value="Cross section calculator"></a>
 <a href="labcmcal">
 <input type=button value="Lab-CM energy convertor"></a>
-
 <a href="links">
 <input type=button value="Useful links"></a>
 <a href="https://www.nndc.bnl.gov/qcalc/">
