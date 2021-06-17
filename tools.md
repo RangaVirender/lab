@@ -7,6 +7,7 @@
 <a href="geant4vis"><input type=button value="Graphical applications in WSL"></a>
   
 ---
+
 <a href="root"><input type=button value="Install CERN-ROOT"></a>
 <a href="cbcal"><input type=button value="Coulomb barrier calculator"></a>
 
@@ -17,9 +18,10 @@
 
 ---
 
-[MarkDown Syntax](https://www.markdownguide.org/basic-syntax/)
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown syntax</a>
 
 ---
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.tools)
 
 <p align="center">
