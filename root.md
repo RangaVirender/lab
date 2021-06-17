@@ -1,45 +1,33 @@
-1. Update the package lists
 ```bash
+    #Update the package lists
     sudo apt-get update
-```
-
-2. Install pre-requisites
-```bash
+    
+    #Install pre-requisites
     sudo apt-get install dpkg-dev cmake g++ gcc binutils libx11-dev libxpm-dev libxft-dev libxext-dev libpng-dev libjpeg-dev python-dev libssl-dev libtbb-dev liblzma-dev
-```
-
-3. Download the latest root source code from cern website
-```bash
+    
+    #Download the latest root source code from cern website
     wget "https://root.cern/download/root_v6.22.00.source.tar.gz"
-```
-
-4. Extract the source code
-```bash 
+    
+    #Extract the source code 
     tar -zxvf root_v6.22.00.source.tar.gz
-```
-
-5. Make a build folder and go into that folder
-```bash 
+    
+    #Make a build folder and change to that folder
     mkdir rootbuild
     cd rootbuild
-```
-
-6. Configure the installation
-```bash
+    
+    #Configure the installation
     cmake ../root_v6.22.00
-```
-
-7. To install root
-```bash
-    make -j4
+    
+    #To install root
+    make -j4 #4 is the number of cores in my CPU. Change according to your CPU
     make install
 ```
-4 is the number of cores in my CPU. Change according to your CPU.
 
 Congratulations…ROOT is now installed.\
 Please email me if you find any error.
 
 ---
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site.tools)
 
 <p align="center">
