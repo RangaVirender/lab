@@ -1,3 +1,5 @@
+<a href="wsl">
+<input type=button value="Install Windows Subsystem for Linux(WSL)"></a>
 <a href="geant4">
 <input type=button value="Install CERN-GEANT4"></a>
 <a href="root">
