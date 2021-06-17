@@ -6,35 +6,24 @@ This guide is for installation of geant4.10.04 in ubuntu 18.04. However, it shou
     
     #Install pre-requisites
     sudo apt-get install cmake gcc g++ expat libexpat1-dev default-jre default-jdk qt4-default cmake-qt-gui mesa-common-dev libglu1-mesa-dev libxmu-dev
-```    
-
-3. Download the latest geant4 source code from geant4 website
-```bash
+    
+    #Download the latest geant4 source code from geant4 website
     wget "http://cern.ch/geant4-data/releases/geant4.10.04.tar.gz"
-```
-
-4. Extract the source code
-```bash
+    
+    #Extract the source code
     tar -zxvf geant4.10.04.tar.gz
-```
-
-5. Make a build folder and go into that folder
-```bash
+    
+    #Make a build folder and change to that folder
     mkdir geant4build
     cd geant4build
-```
-
-6. Configure the installation
-```bash
+    
+    #Configure the installation
     cmake -DGEANT4_BUILD_MULTITHREADED=ON -DGEANT4_INSTALL_DATA=ON -DGEANT4_USE_OPENGL_X11=ON -DGEANT4_USE_QT=ON ../geant4.10.04
-```
-
-7. To install geant4 
-```bash
-    make -j4
+    
+    #Install geant4 
+    make -j4 #4 is the number of logical processors in my CPU. Change according to your CPU.    
     make install
 ```
-4 is the number of logical processors in my CPU. Change according to your CPU.    
 
 ### Congratulations...Geant4 is now installed.
 
