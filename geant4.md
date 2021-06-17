@@ -2,11 +2,9 @@ This guide is for installation of geant4.10.04 in ubuntu 18.04. However, it shou
 
 1. Update the package lists
 ```bash
-    sudo apt-get update
-```
-
-2. Install pre-requisites
-```bash
+    sudo apt-get update     #Update the package lists
+    
+    #Install pre-requisites
     sudo apt-get install cmake gcc g++ expat libexpat1-dev default-jre default-jdk qt4-default cmake-qt-gui mesa-common-dev libglu1-mesa-dev libxmu-dev
 ```    
 
