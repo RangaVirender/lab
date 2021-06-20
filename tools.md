@@ -9,12 +9,25 @@
 ---
 
 <a href="root"><input type=button value="Install CERN-ROOT"></a>
-<a href="cbcal"><input type=button value="Coulomb barrier calculator"></a>
 
+---
+
+<a href="talys"><input type=button value="Install TALYS"></a>
+
+---
+
+<a href="lamps"><input type=button value="Install TIFR-LAMPS"></a>
+
+---
+
+<a href="cbcal"><input type=button value="Coulomb barrier calculator"></a>
 <a href="crxncal"><input type=button value="Cross section calculator"></a>
 <a href="labcmcal"><input type=button value="Lab-CM energy convertor"></a>
-<a href="links"><input type=button value="Useful links"></a>
 <a href="https://www.nndc.bnl.gov/qcalc/"><input type=button value="Q-value Calculator"></a>
+
+---
+
+<a href="links"><input type=button value="Useful links"></a>
 
 ---
 
